@@ -1,0 +1,32 @@
+_repo: Katharine-FrenshamA-Novel_42812
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42812-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Harraden, Beatrice
+    birthdate: 1864
+    deathdate: 1936
+    gutenberg_agent_id: '4389'
+    url: http://www.gutenberg.org/2009/agents/4389
+    wikipedia: http://en.wikipedia.org/wiki/Beatrice_Harraden
+description: ''
+gutenberg_issued: '2013-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42812'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Middle-aged women -- Fiction'
+- !lcsh 'Widowers -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Courtship -- Fiction'
+- !lcsh 'British -- Norway -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'England -- Social life and customs -- Fiction'
+title: 'Katharine Frensham: A Novel'
+url: http://www.gutenberg.org/ebooks/42812
