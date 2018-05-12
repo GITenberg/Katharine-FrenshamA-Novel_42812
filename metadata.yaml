@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4389
     wikipedia: http://en.wikipedia.org/wiki/Beatrice_Harraden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42812#Katharine-FrenshamA-Novel
 gutenberg_issued: '2013-05-26'
 gutenberg_type: Text
 identifiers:
